@@ -1,13 +1,6 @@
 # IEEE_Hands_On_RL_using_Python
 In this workshop, we explore the basics of reinforcement learning using OpenAI gym, and google Colab. The file `IEEE_Hands_On_RL_using_Python.ipynb` contains all the code related to RL. The file can be opened directly in colab. Feel free to clone, fork, and improve upon it. The file is fully FREE to use with or without modifications. Comercial use is fully okay too! I believe learning should be free.
 
-If this workshop benefited you, consider heading over to my YouTube channel (https://www.youtube.com/c/SadiaKhaf92) and supporting me by subscribing! 
-
-Buy me a ☕️ : https://paypal.me/SadiaKhaf
-
-My Blog: https://sadiakhaf.blogspot.com/ 
-LinkedIn: https://pk.linkedin.com/in/sadiakhaf 
-Twitter: https://twitter.com/SadiaKhaf
 
 ## We covered the following:
 
