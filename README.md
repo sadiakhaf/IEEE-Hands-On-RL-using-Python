@@ -23,7 +23,7 @@ Twitter: https://twitter.com/SadiaKhaf
 - [x]	Standard functions of agent and environment classes in OpenAI gym environments and how to create/modify your own functions
 - [x]	Introduction to model free RL such as Q learning, notion of state space, action space, and Q-tables
 - [x]	The concept of spaces in RL and relating them to OpenAI gym, creating custom state and action space
-- [ ].	Creating a custom wireless transmitter and receiver environment
-- [ ].	Creating a Q-learning code and applying it to the environment we just created
-- [ ].	Using, re-using, and re-re-using your environments, agents, policies, and other classes in all your future RL codes
+- [ ]	Creating a custom wireless transmitter and receiver environment
+- [ ]	Creating a Q-learning code and applying it to the environment we just created
+- [ ]	Using, re-using, and re-re-using your environments, agents, policies, and other classes in all your future RL codes
 
