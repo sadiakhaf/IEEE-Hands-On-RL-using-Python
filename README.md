@@ -6,9 +6,13 @@ In this workshop, we explore the basics of reinforcement learning using OpenAI g
 Buy me a ☕️ : https://paypal.me/SadiaKhaf
 
 My YouTube channel: https://www.youtube.com/c/SadiaKhaf92
+
 My Website: https://academiccoaching.ml/
+
 My Blog: https://sadiakhaf.blogspot.com/ 
+
 LinkedIn: https://pk.linkedin.com/in/sadiakhaf 
+
 Twitter: https://twitter.com/SadiaKhaf
 
 
